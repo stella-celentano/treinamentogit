@@ -1,5 +1,6 @@
 #include <stdio.h>
 
-int mains(){
+int main(){
     printf("I hate ED");
+    return 0;
 }
